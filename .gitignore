@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+.lazy.lua
+lazy-lock.json
+.netrwhist
